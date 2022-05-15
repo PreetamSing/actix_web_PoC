@@ -1,0 +1,4 @@
+# MongoDB connection string, including credentials (if any).
+db_string = "http://localhost:27017/test"
+# Port on which the server needs to be launched.
+port = 8080
